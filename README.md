@@ -1,3 +1,3 @@
 # transferme
 transfer test
-bugsbunny copy.png
+/Users/johnlujan/Documents/GitHub/transferme/bugsbunny copy.png
