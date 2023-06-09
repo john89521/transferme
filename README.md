@@ -8,4 +8,11 @@ I have been testing .dev but have not been having success.
 
 ## From Folder
 The line below will be the path from the folder:  
-IMG/bugsbunny copy.png
+IMG/bugsbunny copy.png  
+and it did not work  
+
+### 2nd Attemp  
+/Users/johnlujan/Documents/GitHub/transferme/IMG/bugsbunny copy.png  
+
+Copying url from repo:  
+https://github.com/john89521/transferme/blob/main/IMG/bugsbunny%20copy.png
