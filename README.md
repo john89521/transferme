@@ -15,4 +15,4 @@ and it did not work
 /Users/johnlujan/Documents/GitHub/transferme/IMG/bugsbunny copy.png  
 
 Copying url from repo:  
-https://github.com/john89521/transferme/blob/main/IMG/bugsbunny%20copy.png
+![Bugs Bunny](https://github.com/john89521/transferme/blob/main/IMG/bugsbunny%20copy.png)
